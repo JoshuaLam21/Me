@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @POLYU2021LAM
+- 👋 Hi, I’m @Joshua Lam
 - 👀 I’m interested C++ programming and Game design(in future).
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking on growth of my programming skills and cultivation of my CS abilities.
